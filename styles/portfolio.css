@@ -111,9 +111,11 @@ main {
     max-width: 1140px;
     margin: 0 auto;
 }
-main section{
+
+main section {
     margin-top: 130px;
 }
+
 /* about section style */
 
 .about {
@@ -153,4 +155,11 @@ main section{
     color: #757575;
     font-size: 16px;
     font-weight: 400;
+}
+
+.resume-column-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+
 }
